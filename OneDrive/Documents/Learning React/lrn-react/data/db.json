@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facilis molestias provident placeat quis asperiores soluta eveniet ullam nesciunt recusandae.\n Ratione repellat ab veritatis eaque est, voluptas tempora provident cumque assumenda similique accusamus repellendus ipsum quidem temporibus molestiae esse ducimus unde facilis, quae impedit fugiat totam. Culpa doloribus dolor consequuntur dignissimos pariatur veritatis nisi sint vero voluptas perferendis provident molestias modi odio ex velit a, quod repellendus officiis nesciunt magni! Dolorem laboriosam impedit adipisci ut.\n Iure provident nesciunt consequatur dolor iste delectus eligendi ducimus in, repudiandae accusamus aut rerum neque ullam et voluptate corporis ipsa debitis adipisci dolorem illum quidem? Soluta.",
+      "author": "John",
+      "id": 1
+    },
+    {
+      "title": "Opening party",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut assumenda ea reiciendis debitis quibusdam ipsum, sed dicta consequatur tempore ipsam.\n Deserunt, libero tempora voluptas aliquid recusandae repellat voluptatum ab modi eligendi necessitatibus sapiente voluptate voluptatem ut distinctio ullam vitae, excepturi velit. Non unde voluptatum dolor tempora aliquid! Ut distinctio et facere sed laborum dicta odio quibusdam quae consequuntur ullam esse pariatur, accusamus repellendus, culpa libero veritatis, autem aperiam eum eos nisi.\n Voluptates impedit, aliquam iste voluptas eius atque dicta obcaecati veritatis ab amet quaerat minus ad tenetur nisi dolore fugiat nobis natus qui nostrum fugit sed labore. Eos optio pariatur perspiciatis quibusdam harum non beatae dolore voluptate recusandae, fugit neque voluptatem! Laboriosam dignissimos quasi minima, dolorum magnam dolores. Excepturi, magnam?",
+      "author": "Kim",
+      "id": 2
+    }
+  ]
+}
